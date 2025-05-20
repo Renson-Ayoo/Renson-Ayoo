@@ -22,7 +22,7 @@ I'm passionate about building beautiful, responsive web interfaces using **HTML*
 
 Here are a few projects I’m working on or have completed:
 
-- 🔧 **[Portfolio Website](Coming Soon)** – A simple, responsive personal site using HTML and CSS.
+- 🔧 **[Admin Dashboard](#)** – A simple, responsive personal site using HTML and CSS.
 - ☁️ **[AWS Static Website Hosting](#)** – Hosting a site on AWS S3 with custom domain and HTTPS.
 - 🚀 **[CloudFormation Template](#)** – Automating resource deployment (coming soon!).
 
